@@ -118,7 +118,7 @@ Sosyal medyadaki okuma kolaylığını, kitapların derinliğiyle buluşturmak.
 Bu yeni okuma deneyimini keşfetmek isteyen herkesi InceOku'ya davet ediyorum.
 
 **Can İnce**  
-*InceOku — Kurucu*
+*Bilgizci LTD — Kurucu*
 
 ---
 
