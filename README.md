@@ -78,6 +78,8 @@ Kullanıcı günün farklı anlarında birkaç Dilim okuyabilir. Sabah, öğle a
 
 Her seferinde kaldığı yerden devam eder.
 
+Dilimlerin farklı farklı tasarlanmış olması nedeniyle okuma deneyimi bir süre sonra sıradanlaşarak rutine dönüşmez.
+
 Okuduğu Dilimler birikir. Bir bölüm tamamlanır, ardından bir başkası. Sonunda bir eserin tamamına ulaşılır.
 
 InceOku bu süreçte günlük okuma hedeflerini, ilerlemeyi, okuma sürelerini ve tamamlanan eserleri görünür hale getirir.
