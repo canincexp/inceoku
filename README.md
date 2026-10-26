@@ -2,7 +2,7 @@
 
 Okuma deneyimine farklı bir bakış açısı
 
-### Yeni Bir Okuma Deneyimi Tasarımı
+## Yeni Bir Okuma Deneyimi Tasarımı
 
 Günümüzde insanlar sosyal medyada her gün onlarca paylaşımı neredeyse farkında olmadan okuyor.
 
